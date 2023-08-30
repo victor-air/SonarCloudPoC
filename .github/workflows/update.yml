@@ -2,7 +2,7 @@ name: Xcode Dependencies
 
 on: 
   schedule:
-    - cron: '51 13 * * 1'
+    - cron: '35 14 * * 1'
 
 permissions:
   contents: write
